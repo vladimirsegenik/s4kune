@@ -1,2 +1,2 @@
 print ("hello world") 
-print("jr")
+A = input("как дела")
